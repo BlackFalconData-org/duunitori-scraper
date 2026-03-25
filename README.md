@@ -1,6 +1,6 @@
 # Duunitori Scraper
 
-Extract structured data from [Duunitori.fi](https://Duunitori.fi) — structured job listings from Duunitori.fi — Finland's largest job board. Salary ranges, employment types, employer details, and 22,000+ active listings via free public API.
+Extract structured data from [Duunitori.fi](https://Duunitori.fi) — structured job listings from Duunitori.fi — Finland's largest job board. Salary ranges, employment types, employer details, and 22,000+ active listings.
 
 **[Run on Apify →](https://apify.com/blackfalcondata/duunitori-scraper)**
 
@@ -73,7 +73,7 @@ Use compact mode and description truncation to feed data into AI agents, MCP ser
 Use this actor on Apify to extract structured data from Duunitori.fi. Set your search query and filters in the input, then run — no coding needed.
 
 **Is there a duunitori API?**
-Duunitori.fi does not provide a public API. This actor works as an unofficial API, returning structured JSON data from duunitori.
+Duunitori.fi does not offer a structured data export. This actor works as an unofficial API, returning structured JSON data from duunitori.
 
 **Is it legal to scrape Duunitori.fi?**
 Web scraping of publicly available data is generally legal. This actor only accesses publicly visible information. Always check the target site's terms of service for your specific use case.
