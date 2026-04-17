@@ -2,11 +2,12 @@
 
 Extract structured data from [Duunitori.fi](https://Duunitori.fi) — structured job listings from Duunitori.fi — Finland's largest job board. Salary ranges, employment types, employer details, and 22,000+ active listings.
 
-**[Duunitori Scraper on Apify →](https://apify.com/blackfalcondata/duunitori-scraper)**
+**[Duunitori Scraper - Finland Job Listings on Apify →](https://apify.com/blackfalcondata/duunitori-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [Duunitori.fi](https://Duunitori.fi) — structured
 ---
 
 ## Use cases
+
 
 
 
@@ -84,6 +86,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
