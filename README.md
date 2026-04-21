@@ -12,6 +12,7 @@ Extract structured data from [Duunitori.fi](https://Duunitori.fi) — structured
 
 
 
+
 **Search with filters** — Search by keyword and location.
 
 **Detail enrichment** — Fetch full job descriptions, salary data, direct apply URLs for each listing.
@@ -33,6 +34,7 @@ Extract structured data from [Duunitori.fi](https://Duunitori.fi) — structured
 ---
 
 ## Use cases
+
 
 
 
@@ -183,6 +185,7 @@ See the [actor on Apify](https://apify.com/blackfalcondata/duunitori-scraper?fpr
 
 
 
+
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
 - [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-job-scraper?fpr=1h3gvi) — Indeed job listings with salary data
 - [Glassdoor Job Scraper](https://apify.com/blackfalcondata/glassdoor-job-scraper?fpr=1h3gvi) — Glassdoor listings with company ratings
@@ -190,6 +193,14 @@ See the [actor on Apify](https://apify.com/blackfalcondata/duunitori-scraper?fpr
 - [SEEK Scraper](https://apify.com/blackfalcondata/seek-scraper?fpr=1h3gvi) — Australia & NZ's largest job board
 - [Naukri Scraper](https://apify.com/blackfalcondata/naukri-scraper?fpr=1h3gvi) — India's largest job portal
 
+---
+
+
+## About Black Falcon Data
+
+Black Falcon Data builds production-grade web scrapers for job boards and marketplace data. Browse our full actor catalog at [www.blackfalcondata.com](https://www.blackfalcondata.com).
+
+---
 
 ## Getting started with Apify
 
@@ -203,12 +214,6 @@ Need more volume? [See pricing](https://apify.com/pricing?fpr=1h3gvi).
 
 ---
 
-
-## About Black Falcon Data
-
-Black Falcon Data builds production-grade web scrapers for job boards and marketplace data. Browse our full actor catalog at [www.blackfalcondata.com](https://www.blackfalcondata.com).
-
----
 ---
 
 *Last updated: 2026 03*
